@@ -8,7 +8,7 @@
 - **Source Code :** [https://github.com/oussbenk/sierpinski-triangle](https://github.com/oussbenk/sierpinski-triangle)
 - **Demo :** [https://oussbenk.github.io/sierpinski-triangle/](https://oussbenk.github.io/sierpinski-triangle/)
 
-> ![screenshot](sierpenski-screenshot.gif)
+> ![screenshot](sierpinski-screenshot.gif)
 
 ## About Sierpinski Triangle
 The [Sierpinski](https://en.wikipedia.org/wiki/Sierpinski_triangle) triangle is a fractal and attractive fixed set with the overall shape of an equilateral triangle, subdivided recursively into smaller equilateral triangles. Originally constructed as a curve, this is one of the basic examples of self-similar sets, i.e., it is a mathematically generated pattern that is reproducible at any magnification or reduction [[Wikipedia]](https://en.wikipedia.org/wiki/Sierpinski_triangle).

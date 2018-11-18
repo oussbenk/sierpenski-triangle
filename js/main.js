@@ -1,7 +1,7 @@
 /**
 ***	Author : Oussama Ben Khiroun
 ***	Contact : https://oussamabenkhiroun.com/
-*** Version 1.0
+***	Version 1.0
 **/
 
 var canvas = document.getElementById("sierpinskiCanvas");
